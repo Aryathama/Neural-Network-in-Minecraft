@@ -1,6 +1,6 @@
 # 🧠 Minecraft Redstone Neural Network (MNIST Digit Recognizer)
 
-A fully functional Convolutional Neural Network built inside **Vanilla Minecraft** using Redstone logic gates. This machine recognizes handwritten digits (0-9) drawn on a 28x28 input board.
+A fully functional Convolutional Neural Network built inside **Vanilla Minecraft** using Redstone. This machine recognizes handwritten digits (0-9) drawn on a 28x28 input board.
 
 **No Mods. No Command Blocks. Pure Binary Arithmetic.**
 
