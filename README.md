@@ -34,7 +34,6 @@ The machine uses **Vanilla Redstone Mechanics**.
 ## 📂 Repository Structure
 
 * `train.py` - The TensorFlow script for training and quantizing the model.
-* `schematics/` - Litematica schematic files for the logic gates.
 * `world_download/` - The Minecraft world save file.
 
 ## 🙌 Credits & Inspiration
